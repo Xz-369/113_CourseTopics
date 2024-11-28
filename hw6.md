@@ -1,9 +1,6 @@
+# 分鏡板(storyboard) 形式的螢幕設計
+![all](https://github.com/user-attachments/assets/728907bd-8234-48c5-9a41-84a08de8e4cd)
 
-![健康資料紀錄](https://github.com/user-attachments/assets/857b68f0-4ff9-4fbb-b5e6-a09ebdb675bd)
-![登入](https://github.com/user-attachments/assets/0332498a-c612-4eaf-a7aa-459bcb251cae)
-![首頁](https://github.com/user-attachments/assets/ff77e8b8-bda3-4242-af42-b809f1d651df)
-![個人設置頁面](https://github.com/user-attachments/assets/c01097de-118a-4e35-b9e6-4599e61ad9a6)
-![目標設置](https://github.com/user-attachments/assets/2cf21f33-4d0a-474d-9d3b-4818504a76e9)
 ### 登入畫面
 1.輸入帳號密碼進行登入
 2.註冊帳號密碼進行登入
